@@ -1,0 +1,13 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "version": "0.1.0",
+    "name": "available-fyi/username-search",
+    "title": "Username Search",
+    "description": "Search for available usernames on Instagram, Twitter, TikTok, Facebook, Reddit, and YouTube.",
+    "keywords": ["search", "lookup", "username", "handle", "block", "available", "check", "taken", "Instagram", "Twitter", "TikTok", "Facebook", "Reddit", "YouTube"],
+    "textdomain": "username-search",
+    "icon": "file:./includes/icon.svg",
+    "category": "layout",
+    "editorScript": "file:./build/index.js"
+}
